@@ -1,7 +1,1 @@
-#include <std.io>
-
-int main(){
-
-printf("Hello\n");
-
-};
+das gibts hier nicht, das ist hier absoluter betrug! ARBEIT MACHT FREI! O_O
